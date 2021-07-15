@@ -56,6 +56,6 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at babedi3@gatech.edu. You can find more of my work at [rsimkoff](https://github.com/rsimkoff/).
+If you have any questions about the repo, open an issue or contact me directly at rsimkoff@gmail.com. You can find more of my work at [rsimkoff](https://github.com/rsimkoff/).
 
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
